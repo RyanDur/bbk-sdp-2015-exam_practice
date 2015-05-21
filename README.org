@@ -27,5 +27,10 @@ to follow.
 ***** To get the tests to work, I have marked in the test file with "TODO"s.
 ***** Under the TODOs are lines that start with an "ignore", swap out the word ignore with "describe" to open a block of tests.
 
-I will be posting sample solutions two days before the Exam. I wish you all
+I will be posting sample solutions two days before the Exam.
+
+They will be in:
+https://github.com/RyanDur/bbk-sdp-2015-exam_practice_example_solutions
+
+I wish you all
 the best of luck.
