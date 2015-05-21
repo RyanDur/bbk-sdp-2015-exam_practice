@@ -1,0 +1,20 @@
+* BBK-SDP-2015-EXAM_PRACTICE
+-----
+
+The intent of the exercise is to help you to think in a functional manner.
+To that end, you will have to complete the LinkedList API outlined in the
+src directory. There are companion tests in the test directory that make
+sure that the output is the same as the List API. All but three functions
+in the API have the same signature as the List API. The other three are
+there for helpful and/or instructional purposes. I hope that you find
+this helpful.
+
+** Rules
+Since this is to help you think in a functional way there are some rules
+to follow.
+
+*** No for loops, while loops and do whiles. The only way to iterate over a list is to use recursion.
+*** No mutating state. everything should be immutable from creation of an object
+
+I will be posting sample solutions two days before the Exam. I wish you all
+the best of luck.
