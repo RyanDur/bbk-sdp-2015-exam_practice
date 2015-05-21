@@ -18,6 +18,7 @@ to follow.
 
 *** No for loops, while loops and do whiles. The only way to iterate over a list is to use recursion.
 *** No mutating state. everything should be immutable from creation of an object
+*** There is no reason to add any additional classes or objects or traits. Put your implementation anywhere you find "???"
 -----
 *** Tests
 ***** To get the tests to work, I have marked in the test file with "TODO"s.
