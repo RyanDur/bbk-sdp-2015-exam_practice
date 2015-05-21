@@ -82,5 +82,5 @@ sealed trait LinkedList[+A] {
 
 object LinkedList {
   def apply[A](items: A*): LinkedList[A] =
-    items.foldRight(LinkedList[A]())(Node(_, _))
+    items.foldRight(Empty: LinkedList[A])(Node(_, _))
 }
