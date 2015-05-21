@@ -29,7 +29,6 @@ sealed trait LinkedList[+A] {
 
   def toList: List[A] = this match {
     case Empty => List()
-    case Node(h, Empty) => List(h)
     case Node(h, tl) => h :: tl.toList
   }
 
