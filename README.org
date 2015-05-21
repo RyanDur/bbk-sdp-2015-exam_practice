@@ -1,6 +1,4 @@
-#+BEGIN_CENTER
-* BBK-SDP-2015-EXAM_PRACTICE
-#+END_CENTER
+#+TITLE: BBK-SDP-2015-EXAM_PRACTICE
 -----
 
 The intent of the exercise is to help you to think in a functional manner.
