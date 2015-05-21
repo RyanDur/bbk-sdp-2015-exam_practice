@@ -8,14 +8,15 @@ sure that the output is the same as the List API. All but three functions
 in the API have the same signature as the List API. The other three are
 there for helpful and/or instructional purposes. I hope that you find
 this helpful.
-
+-----
 ** Rules
 Since this is to help you think in a functional way there are some rules
 to follow.
 
 *** No for loops, while loops and do whiles. The only way to iterate over a list is to use recursion.
 *** No mutating state. everything should be immutable from creation of an object
-
+-----
+*** Tests
 ***** To get the tests to work, I have marked in the test file with "TODO"s.
 ***** Under the TODOs are lines that start with an "ignore", swap out the word ignore with "describe" to open a block of tests.
 
