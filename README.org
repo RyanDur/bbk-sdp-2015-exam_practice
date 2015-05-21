@@ -5,7 +5,7 @@ The intent of the exercise is to help you to think in a functional manner.
 To that end, you will have to complete the LinkedList API outlined in the
 src directory. There are companion tests in the test directory that make
 sure that the output is the same as the List API. All but three functions
-in the API have the same signature as the List API. The other three are
+in the API have the same signature as the List API. The other four are
 there for helpful and/or instructional purposes. I recommend that you
 execute the completion of the API from top to bottom. You can do it in any
 order you like, but I believe you will find it easier complete it in this
