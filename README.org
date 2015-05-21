@@ -9,7 +9,7 @@ in the API have the same signature as the List API. The other three are
 there for helpful and/or instructional purposes. I recommend that you
 execute the completion of the API from top to bottom. You can do it in any
 order you like, but I believe you will find it easier complete it in this
-order. I hope that you find this helpful.
+order. I wish you all the best of luck with your exams.
 
 -----
 ** Rules
