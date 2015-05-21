@@ -21,7 +21,8 @@ to follow.
 *** There is no reason to add any additional classes or objects or traits. Put your implementation anywhere you find "???"
 *** DO NOT CHANGE THE METHOD SIGNATURES.
 -----
-*** Tests
+
+** Tests
 ***** To get the tests to work, I have marked in the test file with "TODO"s.
 ***** Under the TODOs are lines that start with an "ignore", swap out the word ignore with "describe" to open a block of tests.
 
