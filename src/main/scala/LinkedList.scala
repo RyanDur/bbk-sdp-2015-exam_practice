@@ -76,7 +76,22 @@ sealed trait LinkedList[+A] {
 
   def splitAt(n: Int): (LinkedList[A], LinkedList[A]) = ???
 
-  // make it work for only Int, don't worry about Generics for this method
+  def take(n: Int): LinkedList[A] = ???
+
+  def drop(n: Int): LinkedList[A] = ???
+
+  def last: A = ???
+
+  def +:[B >: A](elem: B): LinkedList[B] = ???
+
+  def :::[B >: A](prefix: LinkedList[B]): LinkedList[B] = ???
+
+  def sum: A = ???
+
+  def max: A = ???
+
+  def min: A = ???
+
   def mergeSort(): LinkedList[Int] = ???
 }
 
